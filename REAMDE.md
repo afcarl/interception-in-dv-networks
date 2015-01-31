@@ -1,0 +1,12 @@
+# README
+
+This git repository contains data and an IPython notebook used in the
+simulations for the paper ``Information Monitoring in Routing Networks,''
+published in ...
+
+This repository is intended for reproducibility and transparency. If you would
+use or modify the code in this repository for research purposes, you must
+include the following citation:
+
+... no citation yet ...
+
