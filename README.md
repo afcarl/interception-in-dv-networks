@@ -1,4 +1,5 @@
-# README
+Information Monitoring in Routing Networks
+====================================
 
 This git repository contains data and an IPython notebook used in the
 simulations for the paper "Information Monitoring in Routing Networks."
